@@ -1,6 +1,6 @@
 # webapp
 
-A new Flutter project.
+A new Flutter project - auto build on commit.
 
 ## Getting Started
 
