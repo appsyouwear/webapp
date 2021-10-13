@@ -1,6 +1,6 @@
 # webapp
 
-A new Flutter project - auto build on commit(messsage dumper). Bla
+A new Flutter project - auto build on commit(messsage dumper). Bla bla
 
 ## Getting Started
 
